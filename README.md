@@ -1,4 +1,13 @@
-# Power-BI-dashboard-
+# Power BI Dashboard :bar_chart:
 
-Neste trabalho pude fazer todo processo de ETL a partir de uma planilha csv, passando os dados para o Power BI, atribuindo novas colunas e criando painéis interativos possibilitando a visualização das métricas. 
+## Project Overview
+In this project, I conducted the entire Extract, Transform, Load (ETL) process starting from a CSV file. I transferred the data to Power BI, added new columns, and created interactive dashboards to facilitate metric visualization.
 
+## ETL Process :arrows_counterclockwise:
+- Extraction from CSV
+- Transformation in Power BI
+- Loading data into Power BI
+
+## Dashboard Creation :chart_with_upwards_trend:
+```m
+// DAX code for creating interactive dashboards
