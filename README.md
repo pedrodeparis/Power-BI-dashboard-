@@ -9,5 +9,5 @@ In this project, I conducted the entire Extract, Transform, Load (ETL) process s
 - Loading data into Power BI
 
 ## Dashboard Creation :chart_with_upwards_trend:
-```m
-// DAX code for creating interactive dashboards
+
+![Animação](https://github.com/pedrodeparis/Power-BI-dashboard-/assets/150302653/8c67973b-7391-41d7-a6b4-3f73cd3b8e07)
