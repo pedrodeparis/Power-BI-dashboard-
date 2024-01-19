@@ -10,4 +10,5 @@ In this project, I conducted the entire Extract, Transform, Load (ETL) process s
 
 ## Dashboard Creation :chart_with_upwards_trend:
 
-![Animação](https://github.com/pedrodeparis/Power-BI-dashboard-/assets/150302653/8c67973b-7391-41d7-a6b4-3f73cd3b8e07)
+![pbigif](https://github.com/pedrodeparis/Power-BI-dashboard-/assets/150302653/50a51f92-e5ba-4ae3-8015-ba7569c956d8)
+
